@@ -1,0 +1,41 @@
+{
+  "ecklicht": {
+    "templates": [
+      "ecklicht.html"
+    ],
+    "controls": {
+      "ecklicht-control": {
+        "type": "boolean",
+        "name": "Ecklicht Control",
+        "html": "ecklicht.html",
+        "attrs": [
+          {
+            "name": "oid",
+            "type": "id",
+            "text": "State (Shelly Toggle)"
+          },
+          {
+            "name": "oidBrightness",
+            "type": "id",
+            "text": "Brightness (0-100)"
+          },
+          {
+            "name": "oidTemp",
+            "type": "id",
+            "text": "Color Temp (0-100)"
+          },
+          {
+            "name": "customCss",
+            "type": "textarea",
+            "text": "Custom CSS"
+          },
+          {
+            "name": "customJs",
+            "type": "textarea",
+            "text": "Custom JS"
+          }
+        ]
+      }
+    }
+  }
+}
