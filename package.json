@@ -1,0 +1,10 @@
+{
+  "name": "vis-2-widgets-ecklicht",
+  "version": "0.0.1",
+  "main": "dist/plugin.json",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "mickyboys",
+  "license": "MIT"
+}
