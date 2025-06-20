@@ -1,9 +1,0 @@
-{
-  "name": "vis-2-widgets-ecklicht",
-  "version": "0.0.1",
-  "type": "widget",
-  "main": "src/widgets/ecklicht/widgets.json",
-  "title": "Ecklicht Control Widget",
-  "author": "AI Generated",
-  "license": "MIT"
-}
