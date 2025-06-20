@@ -1,0 +1,11 @@
+{
+  "common": {
+    "visWidgets": {
+      "ecklicht": {
+        "name": "Ecklicht Control",
+        "index": "dist/plugin.json"
+      }
+    },
+    "bundlerType": "module"
+  }
+}
