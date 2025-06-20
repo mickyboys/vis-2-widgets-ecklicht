@@ -1,9 +1,0 @@
-{
-  "name": "vis-2-widgets-ecklicht",
-  "version": "0.0.1",
-  "type": "widget",
-  "main": "dist/plugin.json",
-  "title": "Ecklicht Control Plugin",
-  "author": "mickyboys",
-  "license": "MIT"
-}
