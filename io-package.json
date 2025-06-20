@@ -1,5 +1,13 @@
 {
   "common": {
+    "name": "vis-2-widgets-ecklicht",
+    "version": "0.0.1",
+    "title": "Ecklicht Control Widget",
+    "type": "vis",
+    "plugin": "vis",
+    "platform": "Javascript/Node.js",
+    "license": "MIT",
+    "readme": "README.md",
     "visWidgets": {
       "ecklicht": {
         "name": "Ecklicht Control",
@@ -7,9 +15,6 @@
       }
     },
     "bundlerType": "module"
-  }
-}
-"common": {
-  "visWidgets": { ... },
-+ "bundlerType": "module"
+  },
+  "native": {}
 }
