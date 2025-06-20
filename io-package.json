@@ -9,3 +9,7 @@
     "bundlerType": "module"
   }
 }
+"common": {
+  "visWidgets": { ... },
++ "bundlerType": "module"
+}
