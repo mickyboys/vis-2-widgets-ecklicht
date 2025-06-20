@@ -5,7 +5,3 @@
   "author": "mickyboys",
   "license": "MIT"
 }
-"common": {
-  "visWidgets": { ... },
-+ "bundlerType": "module"
-}
